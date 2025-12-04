@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Karo-Website/static/css/main.eb01a64d.css",
-    "main.js": "/Karo-Website/static/js/main.107be7c8.js",
+    "main.css": "/Karo-Website/static/css/main.801086e6.css",
+    "main.js": "/Karo-Website/static/js/main.313011f0.js",
     "index.html": "/Karo-Website/index.html",
-    "main.eb01a64d.css.map": "/Karo-Website/static/css/main.eb01a64d.css.map",
-    "main.107be7c8.js.map": "/Karo-Website/static/js/main.107be7c8.js.map"
+    "main.801086e6.css.map": "/Karo-Website/static/css/main.801086e6.css.map",
+    "main.313011f0.js.map": "/Karo-Website/static/js/main.313011f0.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb01a64d.css",
-    "static/js/main.107be7c8.js"
+    "static/css/main.801086e6.css",
+    "static/js/main.313011f0.js"
   ]
 }
